@@ -12,7 +12,8 @@
   
   <br/>
 <h2>Language that i work usually with</h2>
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-elka&hide=c,php,c%23&layout=compact" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-elka&hide=c,php,c%23&layout=compact" /> 
+  <img src="https://img.icons8.com/external-others-iconmarket/64/undefined/external-bang-hand-gestures-others-iconmarket-3.png"/></p>
  <br/>
 <h2>Language and Tools</h2>
 <h6>some other tools and language that i'm familiar with<h6>     
@@ -25,10 +26,44 @@
 <td>
 <img src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>     
 </td>
-</tr>     
+<td>  
+<img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+</td> 
+<td>
+<img src="https://img.icons8.com/color/48/undefined/angularjs.png"/>
+</td>
+<td>
+<img src="https://img.icons8.com/color/48/undefined/django.png"/>
+</td>
+<td>
+<img src="https://img.icons8.com/color/48/undefined/jenkins.png"/>
+</td>  
+</tr>   
+
+<tr>
+<td>
+<img src="https://img.icons8.com/color/48/undefined/sass.png"/>
+</td>
+<td>
+<img src="https://img.icons8.com/color/48/undefined/firebase.png"/> 
+</td>
+<td>  
+<img src="https://img.icons8.com/ios/50/undefined/php-logo.png"/>
+</td> 
+<td>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+</td>
+<td>
+<img src="https://img.icons8.com/color/48/undefined/nodejs.png"/>
+</td>
+<td>
+<img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
+</td>  
+</tr>  
      
 </table>
-    
+<br/>
+<h6 align="right">Gain Skills Want Efforts</h6>  
      
      
 
