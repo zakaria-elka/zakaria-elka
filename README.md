@@ -12,7 +12,7 @@
   
   <br/>
 <h2>Language that i work usually with</h2>
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-elka&hide=c,c%23&,HTMLlayout=compact" /> 
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-elka&hide=html,c,c%23&&layout=compact" /> 
   <img src="https://img.icons8.com/external-others-iconmarket/64/undefined/external-bang-hand-gestures-others-iconmarket-3.png"/></p>
  <br/>
 <h2>Language and Tools</h2>
